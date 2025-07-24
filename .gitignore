@@ -20,3 +20,6 @@ Thumbs.db
 
 # Outputs
 output/
+
+# Queries
+queries/
