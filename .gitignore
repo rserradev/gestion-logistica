@@ -1,0 +1,22 @@
+# Ignorar entorno virtual
+.venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos de entorno o configuración
+.env
+*.env
+
+# Configuraciones locales de editor
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Outputs
+output/
