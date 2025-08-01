@@ -18,8 +18,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Outputs
+# Inputs y Outputs
 output/
+input/
 
 # Queries
 queries/
